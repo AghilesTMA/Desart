@@ -1,2 +1,2 @@
 # Desart
-A frontend for an agency called Desart(not resposnive)
+A frontend for an agency called Desart(not resposnive).
